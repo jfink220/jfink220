@@ -1,6 +1,5 @@
 ## Hello, I am Joshua Fink 👋
 
-I am currently a CS student at Harper College transferring to CS at UIUC for Fall 2026 through the Engineering Pathways program.
-Here are some ideas to get you started:
+I am currently a CS student at Harper College, transferring Fall 2026 to CS at UIUC through the Engineering Pathways program. 
 
 🔭 I’m currently working on ...
