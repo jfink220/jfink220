@@ -2,4 +2,4 @@
 
 I am currently a CS student at Harper College, transferring Fall 2026 to CS at UIUC through the Engineering Pathways program. 
 
-🔭 I’m currently working on ...
+
